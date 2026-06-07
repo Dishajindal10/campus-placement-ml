@@ -63,6 +63,12 @@ streamlit run app.py
 - **Matplotlib & Seaborn** — Visualizations
 - **Streamlit** — Web app deployment
 
+## Limitations
+
+- Dataset is synthetically generated.
+- Real-world placement outcomes depend on additional factors.
+- Future work includes training on real placement datasets and deploying the application publicly.
+
 ## 👩‍💻 Author
 
-**Disha**
+built by **Disha Jindal**
