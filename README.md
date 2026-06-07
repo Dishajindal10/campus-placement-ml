@@ -27,27 +27,6 @@ Synthetic dataset of 500 students with the following features:
 | Logistic Regression | 92% |
 | Random Forest | 89% |
 
-## 📁 Project Structure
-
-```
-student_placement/
-├── data/
-│   └── placement_data.csv
-├── model/
-│   ├── lr_model.pkl
-│   ├── rf_model.pkl
-│   └── scaler.pkl
-├── plots/
-│   ├── placement_distribution.png
-│   ├── cgpa_vs_placement.png
-│   ├── correlation_heatmap.png
-│   └── feature_importance.png
-├── generate_data.py
-├── train_model.py
-├── app.py
-├── requirements.txt
-└── README.md
-```
 
 ## 🚀 How to Run
 
@@ -86,4 +65,4 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-**Disha** — Built as part of preparation for Amazon ML Summer School 2026
+**Disha**
